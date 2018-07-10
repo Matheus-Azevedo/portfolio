@@ -1,0 +1,15 @@
+@charset "utf-8";
+body {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+}
+#tabela1 tr td {
+	text-transform: capitalize;
+}
+h2 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+}
+.left {
+	text-align: left;
+}
